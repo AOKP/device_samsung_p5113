@@ -20,8 +20,8 @@
 TARGET_BOARD_INFO_FILE := device/samsung/p5113/board-info.txt
 
 # Inline kernel building
-TARGET_KERNEL_SOURCE := kernel/samsung/espresso10
-TARGET_KERNEL_CONFIG := aokp_p5113_defconfig
+# TARGET_KERNEL_SOURCE := kernel/samsung/espresso10
+# TARGET_KERNEL_CONFIG := aokp_p5113_defconfig
 
 # assert
 TARGET_OTA_ASSERT_DEVICE := p5113,GT-P5113,espresso10wifi,espresso10wifixx
