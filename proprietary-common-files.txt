@@ -1,5 +1,6 @@
 system/bin/geomagneticd
 system/bin/gpsd
+system/bin/hostapd
 system/bin/orientationd
 system/etc/audio/LVVEFS_Rx_Configuration.txt
 system/etc/audio/LVVEFS_Tx_Configuration.txt

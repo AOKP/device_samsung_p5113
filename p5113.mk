@@ -19,7 +19,7 @@ $(call inherit-product, device/samsung/p5100/p51xx-common.mk)
 LOCAL_PATH := device/samsung/p5113
 
 ifeq ($(TARGET_PREBUILT_KERNEL),)
-LOCAL_KERNEL := device/samsung/p5113/kernel
+LOCAL_KERNEL := device/samsung/p5100/kernel
 else
 LOCAL_KERNEL := $(TARGET_PREBUILT_KERNEL)
 endif
